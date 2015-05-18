@@ -1,0 +1,64 @@
+body {
+	padding-top: 100px;
+	font-size: 18px;
+}
+.btn-twitter {
+	background-color: #55acee;
+	border-color: #55acee;
+	color: #fff;
+}
+.btn-twitter:hover,
+.btn-twitter:focus,
+.btn-twitter:active,
+.btn-twitter.active,
+.open .dropdown-toggle.btn-twitter {
+	background-color: #4c9bd6;
+	border-color: #4c9bd6;
+	color: #fff;
+}
+.btn-tumblr {
+	background-color: #3E5A70;
+	border-color: #3E5A70;
+	color: #fff;
+}
+.btn-tumblr:hover,
+.btn-tumblr:focus,
+.btn-tumblr:active,
+.btn-tumblr.active,
+.open .dropdown-toggle.btn-tumblr {
+	background-color: #2E485D;
+	border-color: #2E485D;
+	color: #fff;
+}
+a:hover {
+	text-decoration: none;
+}
+.post {
+	margin: 20px 0;
+	padding: 20px;
+	background: #fafafa;
+	border-radius: 5px;
+}
+.alert h3 {
+	margin-top: 0;
+}
+#tweet-count {
+	color: #c0392b;
+	float: right;
+	padding-right: 5px;
+}
+article h1 {
+	margin-top: 0;
+}
+.navbar-nav > li a:link {
+	padding: 0px;
+}
+.navbar-nav > li {
+	padding: 7px;
+}
+.navbar-toggle .fa {
+	color: white;
+}
+a {
+	cursor: pointer;
+{
